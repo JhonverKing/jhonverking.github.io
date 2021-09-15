@@ -1,6 +1,6 @@
 ---
-layout: home
-title: "Home"
+layout: index
+title: "Index"
 ---
 
 `Java & ElasticSearch` testsetsetsetsetsetsetsetsetsetsetsetsets.
