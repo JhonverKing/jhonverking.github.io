@@ -1,9 +1,17 @@
 ---
-layout: home
-title: "Home"
+layout: index
+title: "Index"
 ---
 
-This theme allows an academic person to showcase their research interests, publications, research group, curriculum vitae, any courses that they may be teaching, or anything else they may want to put out into the world.
+`Java & ElasticSearch` testsetsetsetsetsetsetsetsetsetsetsetsets.
 
-Academics can use this home page to describe their research interests, display their latest publications, or provide an introduction to their research group.
-test
+현재 관심이 있는 부분
+* _**ElasticSearch Plugin**_
+* _**Log Data Application**_
+* _**JUnit Test Case**_  
+
+#### `Blog Link`  
+* <a href="https://sandang.tistory.com">_https://sandang.tistory.com_</a>   
+
+#### `Github Link`  
+* <a href="https://github.com/JhonverKing">_https://github.com/JhonverKing_</a>
