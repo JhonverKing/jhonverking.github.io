@@ -1,0 +1,14 @@
+<div class="row g-5 mb-5">
+    <div class="col-md-5" style="display: flex; align-items: baseline;">
+        <h4><i><u>{{ include.item.name }}</u></i></h4>
+        {%- if include.item.link -%}
+            &nbsp;&nbsp;&nbsp;<a href="{{ include.item.link }}">[ 프로젝트 상세 보기 ]</a>
+        {%- endif -%}
+    </div>
+    <div class="col-md-10">
+        {%- if include.item.quote -%}
+        <p class="fw-bold">{{ include.item.quote }}</p>
+        {%- endif -%}
+        {{ include.item.description | strip | markdownify }}
+    </div>
+</div>
